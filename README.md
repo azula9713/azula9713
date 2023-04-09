@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Nilesh Viduranga</h1>
-<h3 align="center">A passionate frontend developer from the wonderful island of Sri Lanka</h3>
+<h3 align="center">A passionate MERN developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=azula9713" alt="azula9713" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/azula9713" target="blank"><img src="https://img.shields.io/twitter/follow/azula9713?logo=twitter&style=for-the-badge" alt="azula9713" /></a> </p>
 
-- 🔭 I’m currently working on [Fuel Finder](https://github.com/azula9713/fuel-finder-react-native)
+- 🔭 I’m currently working on [Genshin-AIO](https://github.com/azula9713/genshin-aio)
 
 - 🌱 I’m currently learning **NextJS**
 

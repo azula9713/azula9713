@@ -17,6 +17,8 @@
 
 - ⚡ Fun fact **I'm a weeb Dattebayo!**
 
+<a href="https://app.daily.dev/azula9713"><img src="https://api.daily.dev/devcards/8d742896fdf54eb0bf013d66d29baf6e.png?r=x63" width="400" alt="Azula Ozai's Dev Card"/></a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/azula9713" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="azula9713" height="30" width="40" /></a>

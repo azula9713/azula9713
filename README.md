@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [azula9713.me](azula9713.me)
+- 👨‍💻 All of my projects are available at [https://azula9713-portfolio.vercel.app/](https://azula9713-portfolio.vercel.app/)
 
 - 💬 Ask me about **ReactJS**
 

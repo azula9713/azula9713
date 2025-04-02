@@ -5,17 +5,15 @@
 
 <p align="left"> <a href="https://twitter.com/azula9713" target="blank"><img src="https://img.shields.io/twitter/follow/azula9713?logo=twitter&style=for-the-badge" alt="azula9713" /></a> </p>
 
-- 🔭 I’m currently working on [Genshin-AIO](https://github.com/azula9713/genshin-aio)
+- 🔭 I’m currently working on [Teyvat-Archive](https://github.com/azula9713/teyvat-archive-client-next)
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://azula9713-portfolio.vercel.app/](https://azula9713-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [Yae Publishing House](https://yaepublishinghouse.online)
 
 - 💬 Ask me about **ReactJS**
 
 - 📫 How to reach me **nnviduranga@gmail.com**
-
-- ⚡ Fun fact **I'm a weeb Dattebayo!**
 
 <a href="https://app.daily.dev/azula9713"><img src="https://api.daily.dev/devcards/8d742896fdf54eb0bf013d66d29baf6e.png?r=x63" width="400" alt="Azula Ozai's Dev Card"/></a>
 
